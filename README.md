@@ -2,7 +2,7 @@
 
 🎯 **QA** com experiência em:
 - ✅ Testes Manuais e Automatizados
-- 🧪 Automação com Cypress, Playwright, Postman
+- 🧪 Automação com Cypress, Appium, Webdriver.io
 - ☁️ Testes de APIs REST e validações em front-end
 - 💻 Conhecimentos em Java, Python, HTML/CSS
 - 📈 Foco em qualidade, performance e usabilidade
