@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Jadsom Magalhães!
 
-🎯 **QA Pleno** com experiência em:
+🎯 **QA** com experiência em:
 - ✅ Testes Manuais e Automatizados
 - 🧪 Automação com Cypress, Playwright, Postman
 - ☁️ Testes de APIs REST e validações em front-end
