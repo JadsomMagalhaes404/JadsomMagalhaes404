@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Webdriver.io-3B3B3B?style=for-the-badge&logo=webdriverio&logoColor=white"/>
 
 - 🔗 **Testes de APIs REST, validações em front-end**
-- 🧠 **Conhecimentos em:** Java • Python • HTML/CSS
+- 🧠 **Conhecimentos em:** <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> • Python • HTML/CSS
 - 🚀 **Foco em:** qualidade, desempenho, usabilidade e melhoria contínua
 
 ---
