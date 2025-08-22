@@ -1,6 +1,7 @@
 # 👋​ Olá, eu sou o Jadsom Magalhães!
 
-Sou Analista de Qualidade de Software (QA) com foco em 
+Sou Analista de Qualidade de Software (QA) com mais de 3 anos de experiência na área e foco em **automação de testes**, **melhoria contínua** e **entrega de valor com excelência**.
+
 
 ---
 
