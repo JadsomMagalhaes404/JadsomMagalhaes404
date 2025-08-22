@@ -1,64 +1,42 @@
-# 💜 Olá, eu sou o(a) SEU_NOME!
+# 💜 Olá, eu sou o Jadsom!
 
 Sou Analista de Qualidade de Software com foco em **estruturar processos**, **melhorar fluxos** e **garantir entregas com excelência**. Minha paixão é enxergar a qualidade como um todo: dos testes à prevenção, da observabilidade à melhoria contínua.
 
 ---
 
-## 🧾 Sobre mim
-- 🌸 QA com atuação sólida em múltiplas frentes (funcionais, regressivos, E2E e BDD)
-- 🧭 Estruturação de processos de testes com foco em **cobertura e rastreabilidade**
-- 📚 Forte em **documentação**, **gestão de casos de teste** e **evidências**
-- 🐞 Facilito **Bug Review** com foco em análise de falhas, logs e observabilidade
-- 🔭 Experiência com **piramide de testes** e visão end-to-end (test-start → test-end)
-- 🔌 Integração de testes em **CI/CD (Bitbucket Pipelines)** e versionamento Git
-- 📊 Validação de dados usando **SQL** e apoio a times com métricas de qualidade
-- 🤝 Colaboração próxima com Produto, Dev e UX para entregar valor de ponta a ponta
+## 📝 Sobre mim
+
+- 🎯 QA estratégica com atuação sólida em múltiplas frentes de qualidade
+- 🧩 Estruturação de processos de testes (exploratórios, regressivos e E2E) com foco em cobertura e rastreabilidade
+- 📚 Especialista em documentação e gestão de testes com X-Ray integrado ao Jira
+- 🐞 Implementadora de reuniões de Bug Review com foco em análise de falhas, logs e observabilidade
+- 🔍 Experiência com a pirâmide de testes e visão de testes ponta a ponta (test-end, to-end)
+- 🧪 Conhecimento sólido em testes manuais, exploratórios e bug bashes
+- 📈 Forte atuação em observabilidade com análise de logs e prevenção de falhas
+- 📎 Experiência com ferramentas como Jira, Azure DevOps, SESuite
+- 🧰 Ferramentas técnicas: Puppeteer, SQL Server, PostgreSQL, Oracle, Postman, Swagger, JMeter
 
 ---
 
-## 🧰 Tecnologias e Ferramentas
+## 🛠️ Tecnologias e Ferramentas
 
-## 🧰 Tecnologias e Ferramentas  
-
-<img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Appium-6C4ADC?style=for-the-badge&logo=appium&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Webdriver.io-3B3B3B?style=for-the-badge&logo=webdriverio&logoColor=white"/> 
-<img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apache-jmeter&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/> 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> 
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/> 
-
-
----
-
-## 🧩 O que eu entrego
-- ✅ **Qualidade aplicada ao negócio:** testes guiados por risco e valor
-- 🔁 **Automação sustentável:** POM, BDD e dados de teste bem orquestrados
-- 🧪 **E2E críticos:** login, onboarding, pagamentos/transferências, fluxos de pedidos
-- 📈 **Métricas de qualidade:** estabilidade da suíte, taxa de flakiness, lead time de defeitos
-- 🧯 **Prevenção de falhas:** análise de logs, tracing, monitoramento e alertas
-
----
-
-## 📌 Repositórios em destaque
-- 🔹 **BugBank E2E com Cypress + BDD** – testes E2E críticos e pipeline (Bitbucket)  
-- 🔹 **APIs públicas com Postman/Newman** – coleção versionada + relatórios HTML  
-- 🔹 **Exemplos de Page Object (UI/API)** – arquitetura escalável para suites de QA  
-
-> Dica: fixe seus repositórios acima em *Pinned Repositories* no seu perfil.
-
----
-
-## 📮 Contato
-- 🌐 **Portfólio/Blog:** _adicione aqui se tiver_
-- 💼 **LinkedIn:** https://www.linkedin.com/in/SEU-LINK/
-- 📧 **E-mail:** SEU_EMAIL@exemplo.com
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white)
+![Instana](https://img.shields.io/badge/-Instana-000000?style=flat)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
+![Puppeteer](https://img.shields.io/badge/-Puppeteer-40B5A4?style=flat&logo=puppeteer&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=oracle&logoColor=white)
+![JMeter](https://img.shields.io/badge/-JMeter-D22128?style=flat&logo=apachejmeter&logoColor=white)
+![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=white)
+[![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat&logo=datadog&logoColor=white)](https://www.datadoghq.com/)
+[![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)](https://grafana.com/)
+[![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat&logo=kibana&logoColor=white)](https://www.elastic.co/kibana/)
+[![Zephyr Scale](https://img.shields.io/badge/Zephyr%20Scale-172B4D?style=flat&logo=atlassian&logoColor=white)](https://www.smartbear.com/product/zephyr-scale/overview/)
+[![SoapUI](https://img.shields.io/badge/SoapUI-6CB33F?style=flat&logo=soapui&logoColor=white)](https://www.soapui.org/)
+[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)](https://www.jenkins.io/)
+[![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=flat&logo=puppeteer&logoColor=white)](https://pptr.dev/)
+[![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white)](https://www.cypress.io/)
+[![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)](https://www.selenium.dev/)
